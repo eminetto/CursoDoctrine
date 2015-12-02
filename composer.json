@@ -1,0 +1,9 @@
+{
+    "require": {
+        "doctrine/common": "2.5.*",
+        "doctrine/dbal": "2.5.*",
+        "doctrine/orm": "2.5.*",
+        "doctrine/migrations": "1.0.*@dev",
+        "symfony/console": "~2.5"
+    }
+}

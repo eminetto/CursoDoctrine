@@ -1,0 +1,4 @@
+name: Migrations do Doctrine na Pratica
+migrations_namespace: Migrations
+table_name: migration_versions
+migrations_directory: src/Migrations
